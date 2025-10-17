@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "builtByUs": "Built by Us",
+    "ourTeam": "Our Team",
+    "contactUs": "Contact us"
+  },
+  "hero": {
+    "title": "Designing & Building Modern Homes in Portugal",
+    "titleLine1": "Designing & Building Modern",
+    "titleLine2": "Homes in Portugal",
+    "subtitle": "At PDO Arquitetos, we create inspiring living spaces—",
+    "subtitleLine2": "crafted with precision, built with purpose.",
+    "cta": "Get in Touch"
+  },
+  "language": {
+    "english": "EN",
+    "portuguese": "PT"
+  },
+  "about": {
+    "text": "At PDO Arquitetos, every project begins with dialogue. We listen, understand, and translate ideas into architecture that is thoughtful, functional, and responsive to its context. From concept to construction, we work closely with our clients, combining creativity and technical rigor to deliver spaces that are clear in purpose and timeless in design."
+  },
+  "projects": {
+    "title": "Our Latest Projects",
+    "allProjects": "All Projects",
+    "allProjectsDescription": "Our portfolio showcases thoughtfully designed projects that combine elegance, functionality, and innovation. From modern villas with open-plan concepts to elegant duplexes with private gardens and rooftop terraces, each project reflects our commitment to quality and contemporary living. We create spaces that inspire comfort, beauty, and sustainability.",
+    "viewDetails": "View Project Details",
+    "viewAll": "View All Projects"
+  },
+  "builtByUs": {
+    "title": "Built by Pedro do Ó Arquitetos",
+    "allProjects": "All Built Projects",
+    "allProjectsDescription": "Discover our diverse portfolio of architectural projects, thoughtfully designed to combine elegance, functionality, and innovation. From modern villas with open-plan concepts to elegant duplexes with private gardens and rooftop terraces, each project reflects our commitment to quality and contemporary living. Explore how we bring unique visions to life through spaces that inspire comfort, beauty, and sustainability.",
+    "viewDetails": "View Project Details",
+    "viewAll": "View All Built Projects"
+  },
+  "seeMoreProjects": {
+    "title": "See More Projects",
+    "subtitle": "Explore our other architectural projects and discover the diversity of our work.",
+    "viewDetails": "View Project Details"
+  },
+  "project": {
+    "viewPlan": "View Plan",
+    "back": "Back",
+    "description": "Project Description"
+  },
+  "expertise": {
+    "title": "Our Expertise",
+    "description": "We design and deliver modern, sustainable spaces that blend aesthetics with functionality. With a focus on quality, efficiency, and environmental responsibility, our team brings creative vision and technical skill to every stage of the project."
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "description1": "We are a Portugal-based architecture and construction studio",
+    "description2": "committed to designing and building high-quality residential homes.",
+    "cta": "Get in Touch",
+    "confidence": {
+      "title": "Confidence",
+      "description": "We manage every step—from design to build—with 15+ years of expertise to ensure precision, trust, and peace of mind."
+    },
+    "legacy": {
+      "title": "Legacy",
+      "description": "Our homes blend sustainable innovation with Portuguese roots, crafted for how you live today and where you're headed tomorrow."
+    }
+  },
+  "contact": {
+    "titleLine1": "Let's Build",
+    "titleLine2": "Something Together",
+    "subtitle": "We'd love to hear from you. Whether you're planning to buy a home or start a new residential project, we're just a message away.",
+    "contactInfo": "Contact Info",
+    "phone": "+351 912 344 767",
+    "email": "po@pdo-arquitetos.pt",
+    "address": "2845-546 Amora, Portugal",
+    "socialPrompt": "Follow us for updates and behind-the-scenes insights",
+    "fullName": "Full Name",
+    "emailPlaceholder": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "cta": {
+    "title": "Ready to Build or Buy?",
+    "subtitle": "Let's talk about your future home—custom-designed and built with care.",
+    "button": "Contact Us Today"
+  },
+  "footer": {
+    "tagline": "Follow us for updates and behind-the-scenes insights",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "team": "Team",
+    "contact": "Contact",
+    "address": "2845-546 Amora, Portugal",
+    "email": "po@pdo-arquitetos.pt",
+    "phone": "+351 912 344 767",
+    "copyright": "© 2025 PDO Arquitetos. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "projects": "Projects",
+    "project": "Project",
+    "about": "About",
+    "team": "Team",
+    "contact": "Contact"
+  }
+}

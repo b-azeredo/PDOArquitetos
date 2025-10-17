@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projectos",
+    "builtByUs": "Construído por Nós",
+    "ourTeam": "Nossa Equipa",
+    "contactUs": "Entre em Contacto"
+  },
+  "hero": {
+    "title": "A Projetar e a Construir Casas Modernas em Portugal",
+    "titleLine1": "A Projetar e a Construir",
+    "titleLine2": "Casas Modernas em Portugal",
+    "subtitle": "Na PDO Arquitetos, criamos espaços habitacionais inspiradores—",
+    "subtitleLine2": "elaborados com precisão, construídos com propósito.",
+    "cta": "Entre em Contacto"
+  },
+  "language": {
+    "english": "EN",
+    "portuguese": "PT"
+  },
+  "about": {
+    "text": "Na PDO Arquitetos, cada projecto começa com diálogo. Escutamos, compreendemos e traduzimos ideias em arquitectura que é pensativa, funcional e responsiva ao seu contexto. Do conceito à construção, trabalhamos de perto com os nossos clientes, combinando criatividade e rigor técnico para entregar espaços que são claros em propósito e atemporais no design."
+  },
+  "projects": {
+    "title": "Os Nossos Últimos Projectos",
+    "allProjects": "Todos os Projectos",
+    "allProjectsDescription": "O nosso portfólio apresenta projectos pensativamente desenhados que combinam elegância, funcionalidade e inovação. Desde villas modernas com conceitos de planta aberta até elegantes duplexes com jardins privados e terraços no telhado, cada projecto reflecte o nosso compromisso com a qualidade e vida contemporânea. Criamos espaços que inspiram conforto, beleza e sustentabilidade.",
+    "viewDetails": "Ver Detalhes do Projecto",
+    "viewAll": "Ver Todos os Projectos"
+  },
+  "builtByUs": {
+    "title": "Construído por Pedro do Ó Arquitetos",
+    "allProjects": "Todos os Projectos Construídos",
+    "allProjectsDescription": "Descubra o nosso portfólio diversificado de projectos arquitectónicos, pensativamente desenhados para combinar elegância, funcionalidade e inovação. Desde villas modernas com conceitos de planta aberta até elegantes duplexes com jardins privados e terraços no telhado, cada projecto reflecte o nosso compromisso com a qualidade e vida contemporânea. Explore como damos vida a visões únicas através de espaços que inspiram conforto, beleza e sustentabilidade.",
+    "viewDetails": "Ver Detalhes do Projecto",
+    "viewAll": "Ver Todos os Projectos Construídos"
+  },
+  "seeMoreProjects": {
+    "title": "Ver Mais Projectos",
+    "subtitle": "Explore os nossos outros projectos arquitectónicos e descubra a diversidade do nosso trabalho.",
+    "viewDetails": "Ver Detalhes do Projecto"
+  },
+  "project": {
+    "viewPlan": "Ver Planta",
+    "back": "Voltar",
+    "description": "Descrição do Projeto"
+  },
+  "expertise": {
+    "title": "A Nossa Expertise",
+    "description": "Projectamos e entregamos espaços modernos e sustentáveis que combinam estética com funcionalidade. Com foco na qualidade, eficiência e responsabilidade ambiental, a nossa equipa traz visão criativa e habilidade técnica para cada etapa do projecto."
+  },
+  "aboutUs": {
+    "title": "Sobre Nós",
+    "description1": "Somos um estúdio de arquitectura e construção baseado em Portugal",
+    "description2": "comprometido em projectar e construir casas residenciais de alta qualidade.",
+    "cta": "Entre em Contacto",
+    "confidence": {
+      "title": "Confiança",
+      "description": "Gerimos cada etapa—do design à construção—com mais de 15 anos de experiência para garantir precisão, confiança e tranquilidade."
+    },
+    "legacy": {
+      "title": "Legado",
+      "description": "As nossas casas combinam inovação sustentável com raízes portuguesas, criadas para como vive hoje e para onde está a ir amanhã."
+    }
+  },
+  "contact": {
+    "titleLine1": "Vamos Construir",
+    "titleLine2": "Algo Juntos",
+    "subtitle": "Adoraríamos ouvir de si. Seja para comprar uma casa ou iniciar um novo projecto residencial, estamos a apenas uma mensagem de distância.",
+    "contactInfo": "Informações de Contacto",
+    "phone": "+351 912 344 767",
+    "email": "po@pdo-arquitetos.pt",
+    "address": "2845-546 Amora, Portugal",
+    "socialPrompt": "Siga-nos para actualizações e insights dos bastidores",
+    "fullName": "Nome Completo",
+    "emailPlaceholder": "Email",
+    "phoneNumber": "Número de Telefone",
+    "message": "Mensagem",
+    "submit": "Enviar"
+  },
+  "cta": {
+    "title": "Pronto para Construir ou Comprar?",
+    "subtitle": "Vamos conversar sobre a sua futura casa—projectada sob medida e construída com cuidado.",
+    "button": "Entre em Contacto Hoje"
+  },
+  "footer": {
+    "tagline": "Siga-nos para actualizações e insights dos bastidores",
+    "quickLinks": "Links Rápidos",
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projectos",
+    "team": "Equipa",
+    "contact": "Contacto",
+    "address": "2845-546 Amora, Portugal",
+    "email": "po@pdo-arquitetos.pt",
+    "phone": "+351 912 344 767",
+    "copyright": "© 2025 PDO Arquitetos. Todos os direitos reservados.",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "breadcrumbs": {
+    "home": "Início",
+    "projects": "Projectos",
+    "project": "Projecto",
+    "about": "Sobre",
+    "team": "Equipa",
+    "contact": "Contacto"
+  }
+}
